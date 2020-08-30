@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="button">Button</string>
+    <string name="ajzj">ajzj</string>
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="bienvenue_l_application_de_marquage_d_absences">Bienvenue à l\'application de marquage d\'absences</string>
+</resources>
